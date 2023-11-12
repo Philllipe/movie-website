@@ -1,0 +1,145 @@
+.nav-link a {
+  text-decoration: none;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.nav-link a:hover {
+  background-color: rgb(54, 61, 68);
+}
+
+.movies {
+  font-size: 50px;
+
+  margin-top: 50px;
+  margin-bottom: 140px;
+}
+
+.movies input {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(54, 61, 68);
+  padding: 10px;
+}
+
+.movie {
+  margin-top: 100px;
+  margin-bottom: 230px;
+  border-radius: 10px;
+  border: 1px solid rgb(54, 61, 68);
+  padding: 20px;
+  background-color: rgb(54, 61, 68);
+  color: rgb(255, 255, 255);
+  transition: 0.5s;
+  width: 1000px;
+}
+
+.movie h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.movie h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 20px;
+  text-align: left;
+  color: rgb(167, 167, 167);
+}
+
+.movie h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  color: rgb(167, 167, 167);
+}
+
+.ratings h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+
+  text-align: left;
+  color: rgb(167, 167, 167);
+}
+
+.movies button {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(54, 61, 68);
+  padding: 10px;
+  background-color: rgb(54, 61, 68);
+  color: rgb(184, 184, 184);
+  transition: 0.5s;
+}
+
+.movies button:hover {
+  background-color: rgb(9, 141, 75);
+  color: rgb(247, 247, 247);
+}
+
+.movies select {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(54, 61, 68);
+  padding: 10px;
+}
+
+header img {
+  margin-top: 70px;
+}
+
+.form {
+  max-width: 600;
+  margin-bottom: 47vh;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p.items {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(54, 61, 68);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.error {
+  margin-top: 100px;
+  margin-bottom: 67vh;
+}
